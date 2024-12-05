@@ -4,10 +4,10 @@
 
 ---
 
-[//]: # ## Quick Links
-[//]: # - 🎯 [Portfolio](https://your-website-url-here.com/portfolio)
-[//]: # - 📝 [Blog](https://your-website-url-here.com/blog)
-[//]: # - 📫 [Contact](https://your-website-url-here.com/contact)
+<!--# ## Quick Links
+# - 🎯 [Portfolio](https://your-website-url-here.com/portfolio)
+# - 📝 [Blog](https://your-website-url-here.com/blog)
+# - 📫 [Contact](https://your-website-url-here.com/contact)-->
 
 ## Featured Projects
 Here are some highlights from my work:
