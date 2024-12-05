@@ -1,6 +1,7 @@
 # 👋 Hi there! 
 
-### 🌐 [Check out my personal website first!](https://your-website-url-here.com)
+### 🌐 [Check out my personal website first!](https://your-website-url-here.com
+)
 
 ---
 
@@ -13,27 +14,24 @@
 Here are some highlights from my work:
 
 ### 🚀 Project 1
-Brief description of your first featured project
 
 ### ⚡ Project 2
-Brief description of your second featured project
 
 ### 🎮 Project 3
-Brief description of your third featured project
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
 
 ## Technologies I Work With
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Python, SQL
-- Tools: Git, Docker, VS Code
-- Cloud: AWS, Google Cloud
+- Frontend: HTML
+- Backend: Python
+- Tools: Git, VS Code
+- Cloud: Google Cloud
 
 ## Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
 - 🐦 [Twitter](https://twitter.com/your-handle)
-- 📧 Email: your.email@example.com
+- 📧 Email: yh3639@columbia.edu
 
 ---
 
