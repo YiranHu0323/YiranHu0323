@@ -1,7 +1,6 @@
 # 👋 Hi there! 
 
-### 🌐 [Check out my personal website first!](https://your-website-url-here.com
-)
+### 🌐 [Check out my personal website first!]()
 
 ---
 
@@ -27,6 +26,7 @@ Here are some highlights from my work:
 - Backend: Python
 - Tools: Git, VS Code
 - Cloud: Google Cloud
+
 
 ## Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
