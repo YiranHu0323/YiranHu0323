@@ -19,8 +19,9 @@ Here are some highlights from my work:
 
 ### 🎮 Project 3
 
+
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YiranHu0323&show_icons=true&theme=dark)
 
 ## Technologies I Work With
 - Frontend: HTML
@@ -30,8 +31,7 @@ Here are some highlights from my work:
 
 
 ## Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-handle)
+- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/yiranhu0323/))
 - 📧 Email: yh3639@columbia.edu
 
 ---
