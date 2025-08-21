@@ -1,6 +1,6 @@
 # 👋 Hi there! 
 
-### 🌐 [Check out my personal website first!](https://yiranhu0323.github.io/#home)
+### 🌐 [Check out my personal website first!](https://yiranhu0323.github.io/?#home)
 
 ---
 
